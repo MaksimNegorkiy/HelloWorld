@@ -1,3 +1,15 @@
 body {
   font-family: "Montserrat", sans-serif;
 }
+
+a {
+  text-decoration: none;
+}
+
+.top {
+  height: 800px;
+  background-image: url(../img/background.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
